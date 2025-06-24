@@ -1,10 +1,6 @@
 ## Usage
 
-Install directly from git using PIP:
-
-```
-pip install git+git://github.com/didip/beaker_extensions.git
-```
+Forked from https://github.com/didip/beaker_extensions.
 
 Now you can use the redis, tyrant, riak, dynomite, and ringo extensions.
 
